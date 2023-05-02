@@ -9,15 +9,15 @@ I'm an iOS Developer with a passion for creating amazing applications. I enjoy s
 - [Audio Player](https://github.com/khassena/AudioPlayer): MVC, UIkit, Storyboard, NSAutoLayoutAnchor, AVFoundation
 
 ## 🖥 Skills
-- Language:          Swift
-- Frameworks:        UIKit, RealmSwift, SnapKit, AVFoundation
-- AutoLayout:        Storyboard, Programmatically, Xib
-- Architectures:     MVC, MVP, MVVM
-- Network:           URLSession, Alamofire, JSON
-- Data Storage:      Realm, UserDefaults
-- Coding Principles: OOP, SOLID
-- Developer Tools:   Xcode, Git, SourceTree, Realm Studio, Figma, Sketch
-- Unit Testing:      XCTest
+- Swift
+- UIKit, RealmSwift, SnapKit, AVFoundation
+- Storyboard, Programmatically, Xib
+- MVC, MVP, MVVM
+- URLSession, Alamofire, JSON
+- Realm, UserDefaults
+- OOP, SOLID
+- Xcode, Git, SourceTree, Realm Studio, Figma, Sketch
+- Unit Testing
 
 ## 📫 How to reach me
 
