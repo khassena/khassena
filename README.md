@@ -22,7 +22,7 @@ I'm an iOS Developer with a passion for creating amazing applications. I enjoy s
 ## 📫 How to reach me
 
 - Email: [khassenawork@gmail.com](mailto:khassenawork@gmail.com)
-- LinkedIn: [Amanzhan Khassen](https://www.linkedin.com/in/yourprofile)
+- LinkedIn: [Amanzhan Khassen](https://www.linkedin.com/in/khassena/)
 - Telegram: [@khassena](https://t.me/khassena)
 
 ## 👀 Github Stats
