@@ -4,9 +4,8 @@ I'm an iOS Developer with a passion for creating amazing applications. I enjoy s
 
 ## 🚀 Current Projects
 
+- [GeographicAtlas](https://github.com/khassena/GeographicAtlas): MVVM-C, Alamofire, SnapKit, Repository, DI, Unit Testing
 - [Coder](https://github.com/khassena/Coder): MVP, URLSession, Realm, Unit Test, iOS 13+
-- [Pomodoro](https://github.com/khassena/Pomodoro): MVVM, Storyboard, Realm, Data Driven UI
-- [Audio Player](https://github.com/khassena/AudioPlayer): MVC, UIkit, Storyboard, NSAutoLayoutAnchor, AVFoundation
 
 ## 🖥 Skills
 - Swift
